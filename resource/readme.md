@@ -19,3 +19,12 @@
 6、[在线编译工具](https://c.runoob.com/)  php、python java等
 
 7、[二维码解析](https://jiema.wwei.cn/)
+
+
+## 资源
+
+OWASP cheatlist
+https://cheatsheetseries.owasp.org/cheatsheets/XML_Security_Cheat_Sheet.html
+
+有些java 审计总结
+https://cloud.tencent.com/developer/column/81357
