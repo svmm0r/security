@@ -1,0 +1,6 @@
+CTF01
+
+1、ip发现，用netdiscover 
+netdiscover -i eth0 -r 192.168.153.1/24
+-i是指定网卡
+-r是指定ip地址的范围
