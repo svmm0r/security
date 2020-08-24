@@ -28,3 +28,13 @@ https://cheatsheetseries.owasp.org/cheatsheets/XML_Security_Cheat_Sheet.html
 
 有些java 审计总结
 https://cloud.tencent.com/developer/column/81357
+
+在线短信、邮箱
+Sms
+  https://www.materialtools.com/
+  http://receivefreesms.com/
+Email
+  https://10minutemail.net/
+  https://zh.mytrashmailer.com/
+  http://24mail.chacuo.net/enus
+  https://www.linshiyouxiang.net/
