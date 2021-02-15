@@ -6,3 +6,7 @@
  echo '<?php phpinfo(); ?>' | php 2>&1 |grep -i ssl  
  
  3、linux命令 进行文件传输、sudo、suid
+ https://gtfobins.github.io/
+ 
+ 4、木马文件检测网站
+ https://www.virustotal.com/
